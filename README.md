@@ -1,6 +1,6 @@
 # Demos
 
-This repository contains the source code for the demos on [my blog](https://medium.com/@thomasmanosbajis).
+This repository contains the source code for the demos on [my blog](https://medium.com/@tommybajis).
 
 ## Getting Started
 
